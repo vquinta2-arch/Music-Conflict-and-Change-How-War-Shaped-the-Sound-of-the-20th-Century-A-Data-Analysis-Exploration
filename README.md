@@ -28,7 +28,12 @@ We examined these metrics across pre-war, wartime, and post-war eras to identify
 ## How to Explore the Data
 1.  **View Visualizations**: Open `Project1.twb` using Tableau Desktop or Tableau Public.
 2.  **Read the Findings**: View the included PDF presentation for a high-level summary of our analytical insights.
-3.  **Explore the Article**: Check out our LinkedIn article [Link to your post] for a broader narrative analysis of this data.
+3.  **Explore the Article**: Check out our [LinkdIn Article](https://www.linkedin.com/pulse/music-conflict-change-how-war-shaped-sound-20th-vinicius-j-quintana-rfghc/) for a broader narrative analysis of this data.
+
+## Data Source
+The dataset used in this project is the [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset).
 
 ## Credits
-This project was developed as part of [Insert Course/Project Name] by Vinicius Quintana.
+This project was developed as part of MATH 2327 - Introduction to Data Analysis, taught by Professor Paul Savala. 
+
+Special thanks to my teammates: Miranda Hancock and Diego Rangel for their contributions to this analysis.
