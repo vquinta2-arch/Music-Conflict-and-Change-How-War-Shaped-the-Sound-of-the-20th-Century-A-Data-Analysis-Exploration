@@ -11,7 +11,6 @@ The analysis aims to uncover how labor disputes, technological advancements, and
 ## Repository Contents
 
 - **`Project1.twb`**: The core Tableau workbook containing all analytical visualizations, including time-series trends and comparative studies across different war periods.
-- **`spotify_tracks.csv`**: The raw dataset used for this analysis.
 - **`How Did World War II Affect Musical Characteristics.pdf`**: The presentation slides detailing our findings.
 
 *Note: The original presentation is in `.pptx` format. For accessibility on GitHub, we have provided the version exported as a PDF.*
